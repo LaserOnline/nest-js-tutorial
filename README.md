@@ -52,3 +52,8 @@ Production Mode
 ```bash
   nest g service service-name
 ```
+
+## Guard
+```bash
+  nest generate guard guard-name
+```
